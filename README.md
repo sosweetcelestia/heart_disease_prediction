@@ -1,1 +1,2 @@
 # heart_disease_prediction
+In this project, we examine a dataset that contains a variety of health parameters, such as age, blood pressure, heart rate, and more, from heart patients. Our objective is to create a predictive model that can correctly diagnose people with heart disease. Recall for the positive class is a crucial metric, as our main focus is on making sure the model recognizes all potential patients, given the grave implications of missing a positive diagnosis.
